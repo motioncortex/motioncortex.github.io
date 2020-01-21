@@ -13,8 +13,42 @@ header .intro-text
     background-color: #5100ff;
 }
 
-navbar-default .navbar-brand
+.btn-xl:hover, .btn-xl:focus, .btn-xl:active, .btn-xl.active, .open .dropdown-toggle.btn-xl
+{
+    border-color: #3e00c4;
+    background-color: #3e00c4;
+}
+
+.navbar-default .navbar-brand
 {
     font-family: Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #ffffff;
+}
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:active, .navbar-default .navbar-brand.active
+{
+    color: #ffffff;
+}
+
+.navbar-default.navbar-shrink
+{
+    background-color: #1a1a1a;
+}
+
+header .intro-text .intro-lead-in
+{
+    font-family: Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-style: normal;
+}
+
+.navbar-default .nav li a:hover, .navbar-default .nav li a:focus
+{
+    color: #5100ff;
+}
+
+header .intro-text .intro-heading
+{
+    text-transform: none;
+    font-family: Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 50px;
 }
