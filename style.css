@@ -1,3 +1,20 @@
 ---
 layout: style
 ---
+
+header .intro-text
+{
+    text-align: left;
+}
+
+.btn-xl
+{
+    border-color: #5100ff;
+    background-color: #5100ff;
+}
+
+navbar-default .navbar-brand
+{
+    font-family: Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #ffffff;
+}
