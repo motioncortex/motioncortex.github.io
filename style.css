@@ -87,3 +87,13 @@ ul.social-buttons li a
    background-color: #1a1a1a;
 }
 */
+
+.text-primary
+{
+    color: #1a1a1a;
+}
+
+.text-primary:hover
+{
+    color: #1a1a1a;
+}
