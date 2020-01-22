@@ -50,7 +50,10 @@ header .intro-text .intro-heading
 {
     text-transform: none;
     font-family: Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 50px;
+    font-size: 20px;
+    line-height: 40px;
+    font-weight: normal;
+    width: 700px;
 }
 
 .navbar-default .navbar-nav > .active > a
@@ -61,4 +64,20 @@ header .intro-text .intro-heading
 .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus
 {
     background-color: #3e00c4;
+}
+
+.fa
+{
+    background-color: #1a1a1a;
+}
+
+.fa:hover
+{
+    background-color: #737373;
+}
+
+header .intro-text
+{
+    padding-top: 200px;
+    padding-bottom: 130px;
 }
