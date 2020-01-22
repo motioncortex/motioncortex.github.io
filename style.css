@@ -78,8 +78,8 @@ header .intro-text .intro-heading
 */
 header .intro-text
 {
-    padding-top: 300px;
-    padding-bottom: 130px;
+    padding-top: 25%;
+    padding-bottom: 15%;
 }
 /*
 ul.social-buttons li a
