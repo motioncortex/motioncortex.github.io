@@ -102,3 +102,10 @@ header
 {
     height: 900px;
 }
+
+section h3.section-subheading
+{
+    font-family: Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-style: normal;
+    line-height: 25px;
+}
