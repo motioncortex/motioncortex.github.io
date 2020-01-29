@@ -84,7 +84,7 @@ header .intro-text .intro-lead-in
 */
 header .intro-text
 {
-    padding-top: 25%;
+    padding-top: 24%;
     padding-bottom: 15%;
 }
 /*
@@ -115,3 +115,16 @@ section h3.section-subheading
     font-style: normal;
     line-height: 25px;
 }
+
+#others-special
+{
+    margin-top: 15px;
+    width: 100%;
+}
+
+#others-text-special
+{
+    width: 300px;
+    margin: 0 auto;
+}
+

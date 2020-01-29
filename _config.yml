@@ -1,10 +1,10 @@
-url: https://motioncortex.github.io/
+url: http://motioncortex.ai/
 baseurl: /
 
 # Site settings
-title: motioncortex
+title: motioncortex.ai
 email: info@
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Motioncortex is the AI-driven technology built on top of human body movements analysis."
 
 
 # Team names, titles and social links
@@ -28,15 +28,14 @@ people:
       url: #
     - title: facebook
       url: #
-    - title: google-plus
-      url: #
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: instagram
     url: #
   - title: facebook
-    url:
+    url: #
   - title: linkedin
     url: #
   - title: github
