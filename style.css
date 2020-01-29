@@ -128,3 +128,7 @@ section h3.section-subheading
     margin: 0 auto;
 }
 
+.navbar-default .navbar-brand
+{
+    font-size: 34px;
+}
