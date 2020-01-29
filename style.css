@@ -59,6 +59,7 @@ header .intro-text .intro-heading
 header .intro-text .intro-lead-in
 {
     width: 65%;
+    line-height: 50px;
 }
 
 .navbar-default .navbar-nav > .active > a
