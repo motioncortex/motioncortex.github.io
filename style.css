@@ -56,6 +56,11 @@ header .intro-text .intro-heading
     width: 65%;
 }
 
+header .intro-text .intro-lead-in
+{
+    width: 65%;
+}
+
 .navbar-default .navbar-nav > .active > a
 {
     background-color: #5100ff;
